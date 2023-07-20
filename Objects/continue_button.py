@@ -2,7 +2,7 @@ import pygame
 import json
 
 from global_vars import *
-from button import Button
+from Objects.button import Button
 
 
 class ContinueButton(Button):

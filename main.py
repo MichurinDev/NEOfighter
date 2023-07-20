@@ -4,8 +4,8 @@ import json
 import os
 
 from global_vars import *  # Импортируем нужные переменные
-from scenes import *  # Импортируем сцены
-from load_image_func import *
+from Functions.scenes import *  # Импортируем сцены
+from Functions.load_image_func import *
 
 
 """

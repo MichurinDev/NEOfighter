@@ -6,13 +6,13 @@ import json
 from global_vars import *
 
 # Импортируем классы
-from button import Button
-from continue_button import ContinueButton
-from wall import Wall
-from player import Player
-from gun import Gun
-from trampoline import Trampoline
-from monster import Monster
+from Objects.button import Button
+from Objects.continue_button import ContinueButton
+from Objects.wall import Wall
+from Objects.player import Player
+from Objects.gun import Gun
+from Objects.trampoline import Trampoline
+from Objects.monster import Monster
 
 
 def load_level(filename):

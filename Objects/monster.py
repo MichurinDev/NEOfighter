@@ -1,5 +1,5 @@
 import pygame
-from load_image_func import load_image
+from Functions.load_image_func import load_image
 from global_vars import *
 
 

@@ -1,7 +1,7 @@
 import pygame
-from load_image_func import load_image
+from Functions.load_image_func import load_image
 from global_vars import *
-from bullet import Bullet
+from Objects.bullet import Bullet
 import json
 import os
 

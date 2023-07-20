@@ -1,8 +1,8 @@
 import pygame
 import json
 from global_vars import *
-from load_image_func import *
-from scenes import *
+from Functions.load_image_func import *
+from Functions.scenes import *
 
 
 class Player(pygame.sprite.Sprite):
